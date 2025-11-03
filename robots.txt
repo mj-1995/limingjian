@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mj-1995.github.io/sitemap.xml
+Sitemap: https://mj-1995.github.io/limingjian/sitemap.xml
