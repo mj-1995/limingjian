@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://haokunyuan.github.io/limingjian/sitemap.xml
+Sitemap: https://mj-1995.github.io/limingjian/sitemap.xml
