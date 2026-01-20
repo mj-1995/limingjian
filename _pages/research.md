@@ -9,28 +9,20 @@ nav_order: 6
 
 ## Working Paper
 
-### **[Do People Reduce Their Income for CHIP Eligibility? Evidence from Tax Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296310)**
-This paper examines whether families reduce their reported income on tax returns in order to qualify for Children’s Health Insurance Program (CHIP) eligibility. It uses tax-return data to look for clustering or “bunching” of incomes just below the income thresholds that determine CHIP eligibility, testing whether the incentives created by income cutoffs lead to behavioral responses in income reporting or labor supply.
 
-- *Presented at:* [Add conference or seminar details]
+### **[Does Medicaid Expansion Lead to Income Adjustment? Evidence from the Survey of Income Program Participation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296310)**
+Abstract: Using the monthly Survey of Income Program Participation (SIPP) data and a regression discontinuity (RD) design at the 138 percent of the Federal Poverty Line (FPL) threshold, this paper shows that childless adults in Medicaid expansion states lowered their lowest-month earnings by about 39 FPL percentage points ($700 in 2025 dollars for a two-person household) to qualify for Medicaid. The response is largest when the individual mandate penalty was highest (2015–2016) and attenuates after the penalty was set to zero in 2019. Evidence from zero-earnings months and hours worked indicates adjustments along both extensive and intensive margins. These findings validate lowest-month earnings as the practical eligibility measure and provide novel evidence of substantial labor-supply responses to the Affordable Care Act’s Medicaid notch.
 
----
-
-### **Does Medicaid Expansion Lead to Income Adjustment? Evidence from the Survey of Income Program Participation**
-Using monthly data from the Survey of Income and Program Participation (SIPP) and a regression discontinuity design around the 138 % of Federal Poverty Line eligibility cutoff in expansion states, this paper finds that childless adults reduced their lowest-month earnings by about 39 percentage points of the FPL (≈ US $700 for a two-person household) to qualify for Medicaid when the individual-mandate penalty was high, with the effect diminishing after the penalty dropped to zero. Adjustments occurred both via zero-earning months (extensive margin) and fewer hours worked (intensive margin).
-
-- *Presented at:* [Add conference or seminar details]
+- *Presented at:* American Society of Health Economists, Illinois Economics Association, Midwest Economics Association(scheduled)
 
 ---
+### **How Is MAGI-Based Medicaid Eligibility Determined?** Available upon request 
+Abstract: Despite the apparent complexity of MAGI rules, this paper shows, by directly referencing federal regulations (42 CFR §435) and Centers for Medicare and Medicaid Services documentation, that Medicaid eligibility in practice is determined by the lowest monthly earnings within a year, rather than annual income measures. Using the Survey of Income and Program Participation monthly panel data, this paper finds a sharp and visually clear discontinuity in Medicaid enrollment at 138 percent of the federal poverty line (FPL) when eligibility is measured using the lowest monthly earningswithin a calendar year. In contrast, alternative eligibility methods, including the lowest monthly income defined as earnings plus other income, median monthly earnings, and annual earnings, fail to generate any comparable enrollment gap. Simulation exercises show that annual income measures mechanically attenuate eligibility discontinuities because they average over months with substantialwithin-year earnings variation. This helps explain why studies relying on cross-sectional data, such as the Current Population Survey, often fail to detect clear eligibility-driven effects.
+
 
 ## Work in Progress
-
-### **The Elephant in the Room: What Has Been Missing in Determining Medicaid Eligibility?**
-This in-progress project explores gaps or overlooked aspects in how eligibility for Medicaid is determined—such as administrative burden, income volatility, or state-level variation in verification procedures. It aims to identify factors often neglected in eligibility modeling and to propose how incorporating them can improve enrollment predictions and policy design.
-
 ---
-
-### **Does Tracking Increase Grades Disparities?**
+### **Does Tracking Increase Grades Disparities?** With Yue Li
 This work investigates the effect of academic tracking (grouping students by ability or level) on disparities in grades. It examines whether tracking contributes to widening achievement gaps between students of different socioeconomic backgrounds or prior achievement levels, quantifying the causal impact of tracking practices on grade disparities to inform education policy.
 
 
