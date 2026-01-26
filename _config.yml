@@ -6,6 +6,8 @@ title: Mingjian Li   # the website title (if blank, full name will be used inste
 first_name: Mingjian
 middle_name: 
 last_name: Li
+github:
+  repository_name: limingjian
 contact_note: >
   Feel free to email me (mli223@uic.edu) if you have questions on Medicaid rules or other things.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
